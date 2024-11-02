@@ -1,4 +1,4 @@
-# Project3: Logistics Simulation
+# WareHouse: Logistics Simulation
 
 ![GitHub language count](https://img.shields.io/github/languages/count/davidgvad/Warehouse)
 ![GitHub license](https://img.shields.io/github/license/davidgvad/Warehouse)
