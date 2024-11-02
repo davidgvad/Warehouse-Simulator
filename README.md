@@ -44,7 +44,8 @@ Warehouse-Simulator/
 ```
 ## Project Overview
 
-**Warehouse** is a Java-based simulation tool designed to manage and track the operations of trucks, shipments, and warehouses within a logistics network. The simulation models real-world logistics scenarios, allowing users to observe and analyze the efficiency of shipment assignments, truck movements, and warehouse operations.
+**Warehouse** is a Java-based simulation tool designed to manage and track the operations of trucks, shipments, and warehouses within a logistics network. The simulation models real-world logistics scenarios, allowing users to observe and analyze the efficiency of shipment assignments, truck movements, and warehouse operations. 
+P.S. All the data structures used were implemented manually by the author.
 
 ### Key Objectives
 
