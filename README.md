@@ -11,17 +11,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Data Files](#data-files)
-- [Logging Mechanism](#logging-mechanism)
-- [Testing](#testing)
-- [Design and Architecture](#design-and-architecture)
-- [Challenges and Solutions](#challenges-and-solutions)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Additional Resources](#additional-resources)
-- [Screenshots and Diagrams](#screenshots-and-diagrams)
-- [Future Improvements](#future-improvements)
 
 ---
 ## Project Structure
