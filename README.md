@@ -1,7 +1,7 @@
 # WareHouse: Logistics Simulation
 
-![GitHub language count](https://img.shields.io/github/languages/count/davidgvad/Warehouse)
-![GitHub license](https://img.shields.io/github/license/davidgvad/Warehouse)
+![License](https://img.shields.io/github/license/davidgvad/Warehouse-Simulator)
+![Java Version](https://img.shields.io/badge/java-11%2B-blue)
 
 ## Table of Contents
 
