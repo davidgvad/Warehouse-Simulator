@@ -1,0 +1,4 @@
+truckId,capacity,speed,startX,startY
+1,5,1,5,9
+2,3,3,0,0
+3,4,2,11,13

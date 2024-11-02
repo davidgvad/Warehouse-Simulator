@@ -1,0 +1,233 @@
+Truck ID, Action, Warehouse ID, Chosen Shipment ID, Number of Shipments, Time
+
+1, going to source, Warehouse 4, 8, 0, 1 hours 
+
+2, going to source, Warehouse 3, 9, 0, 1 hours 
+
+3, going to source, Warehouse 1, 2, 0, 1 hours 
+
+4, going to source, Warehouse 2, 10, 0, 1 hours 
+
+5, going to source, Warehouse 2, 5, 0, 1 hours 
+
+6, going to source, Warehouse 3, 7, 0, 1 hours 
+
+7, going to source, Warehouse 2, 1, 0, 1 hours 
+
+8, going to source, Warehouse 1, 3, 0, 1 hours 
+
+9, going to source, Warehouse 4, 4, 0, 1 hours 
+
+1, going to source, Warehouse 4, 8, 0, 2 hours 
+
+2, going to source, Warehouse 3, 9, 0, 2 hours 
+
+3, going to source, Warehouse 1, 2, 0, 2 hours 
+
+4, going to source, Warehouse 2, 10, 0, 2 hours 
+
+5, going to source, Warehouse 2, 5, 0, 2 hours 
+
+6, going to source, Warehouse 3, 7, 0, 2 hours 
+
+7, going to source, Warehouse 2, 1, 0, 2 hours 
+
+8, going to source, Warehouse 1, 3, 0, 2 hours 
+
+9, going to source, Warehouse 4, 4, 0, 2 hours 
+
+1, loading, Warehouse 4, 8, 1, 3 hours 
+
+2, going to source, Warehouse 3, 9, 0, 3 hours 
+
+3, going to source, Warehouse 1, 2, 0, 3 hours 
+
+4, going to source, Warehouse 2, 10, 0, 3 hours 
+
+5, going to source, Warehouse 2, 5, 0, 3 hours 
+
+6, going to source, Warehouse 3, 7, 0, 3 hours 
+
+7, going to source, Warehouse 2, 1, 0, 3 hours 
+
+8, going to source, Warehouse 1, 3, 0, 3 hours 
+
+9, going to source, Warehouse 4, 4, 0, 3 hours 
+
+1, going to destination with load, Warehouse 1, 8, 1, 4 hours 
+
+2, loading, Warehouse 3, 9, 1, 4 hours 
+
+3, going to source, Warehouse 1, 2, 0, 4 hours 
+
+4, going to source, Warehouse 2, 10, 0, 4 hours 
+
+5, going to source, Warehouse 2, 5, 0, 4 hours 
+
+6, going to source, Warehouse 3, 7, 0, 4 hours 
+
+7, going to source, Warehouse 2, 1, 0, 4 hours 
+
+8, going to source, Warehouse 1, 3, 0, 4 hours 
+
+9, loading, Warehouse 4, 4, 1, 4 hours 
+
+1, going to destination with load, Warehouse 1, 8, 1, 5 hours 
+
+2, going to destination with load, Warehouse 1, 9, 1, 5 hours 
+
+3, going to source, Warehouse 1, 2, 0, 5 hours 
+
+4, going to source, Warehouse 2, 10, 0, 5 hours 
+
+5, going to source, Warehouse 2, 5, 0, 5 hours 
+
+6, going to source, Warehouse 3, 7, 0, 5 hours 
+
+7, loading, Warehouse 2, 1, 1, 5 hours 
+
+8, going to source, Warehouse 1, 3, 0, 5 hours 
+
+9, going to destination with load, Warehouse 1, 4, 1, 5 hours 
+
+1, unloading, Warehouse 1, 8, 1, 6 hours 
+
+2, going to destination with load, Warehouse 1, 9, 1, 6 hours 
+
+3, loading, Warehouse 1, 2, 1, 6 hours 
+
+4, going to source, Warehouse 2, 10, 0, 6 hours 
+
+5, going to source, Warehouse 2, 5, 0, 6 hours 
+
+6, going to source, Warehouse 3, 7, 0, 6 hours 
+
+7, going to destination with load, Warehouse 1, 1, 1, 6 hours 
+
+8, going to source, Warehouse 1, 3, 0, 6 hours 
+
+9, unloading, Warehouse 1, 4, 1, 6 hours 
+
+2, going to destination with load, Warehouse 1, 9, 1, 7 hours 
+
+3, going to destination with load, Warehouse 3, 2, 1, 7 hours 
+
+4, going to source, Warehouse 2, 10, 0, 7 hours 
+
+5, waiting at source, Warehouse 2, 5, 0, 7 hours 
+
+6, loading, Warehouse 3, 7, 1, 7 hours 
+
+7, going to destination with load, Warehouse 1, 1, 1, 7 hours 
+
+8, going to source, Warehouse 1, 3, 0, 7 hours 
+
+2, going to destination with load, Warehouse 1, 9, 1, 8 hours 
+
+3, going to destination with load, Warehouse 3, 2, 1, 8 hours 
+
+4, loading, Warehouse 2, 10, 1, 8 hours 
+
+5, waiting at source, Warehouse 2, 5, 0, 8 hours 
+
+6, going to destination with load, Warehouse 4, 7, 1, 8 hours 
+
+7, going to destination with load, Warehouse 1, 1, 1, 8 hours 
+
+8, going to source, Warehouse 1, 3, 0, 8 hours 
+
+2, unloading, Warehouse 1, 9, 1, 9 hours 
+
+3, going to destination with load, Warehouse 3, 2, 1, 9 hours 
+
+4, going to destination with load, Warehouse 1, 10, 1, 9 hours 
+
+5, loading, Warehouse 2, 5, 1, 9 hours 
+
+6, going to destination with load, Warehouse 4, 7, 1, 9 hours 
+
+7, going to destination with load, Warehouse 1, 1, 1, 9 hours 
+
+8, going to source, Warehouse 1, 3, 0, 9 hours 
+
+3, going to destination with load, Warehouse 3, 2, 1, 10 hours 
+
+4, going to destination with load, Warehouse 1, 10, 1, 10 hours 
+
+5, going to destination with load, Warehouse 4, 5, 1, 10 hours 
+
+6, going to destination with load, Warehouse 4, 7, 1, 10 hours 
+
+7, going to destination with load, Warehouse 1, 1, 1, 10 hours 
+
+8, loading, Warehouse 1, 3, 1, 10 hours 
+
+3, going to destination with load, Warehouse 3, 2, 1, 11 hours 
+
+4, going to destination with load, Warehouse 1, 10, 1, 11 hours 
+
+5, going to destination with load, Warehouse 4, 5, 1, 11 hours 
+
+6, going to destination with load, Warehouse 4, 7, 1, 11 hours 
+
+7, going to destination with load, Warehouse 1, 1, 1, 11 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 11 hours 
+
+3, unloading, Warehouse 3, 2, 1, 12 hours 
+
+4, going to destination with load, Warehouse 1, 10, 1, 12 hours 
+
+5, going to destination with load, Warehouse 4, 5, 1, 12 hours 
+
+6, going to destination with load, Warehouse 4, 7, 1, 12 hours 
+
+7, going to destination with load, Warehouse 1, 1, 1, 12 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 12 hours 
+
+3, going to source, Warehouse 1, 2, 0, 13 hours 
+
+4, going to destination with load, Warehouse 1, 10, 1, 13 hours 
+
+5, unloading, Warehouse 4, 5, 1, 13 hours 
+
+6, going to destination with load, Warehouse 4, 7, 1, 13 hours 
+
+7, unloading, Warehouse 1, 1, 1, 13 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 13 hours 
+
+3, going to source, Warehouse 3, 6, 0, 14 hours 
+
+4, unloading, Warehouse 1, 10, 1, 14 hours 
+
+6, unloading, Warehouse 4, 7, 1, 14 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 14 hours 
+
+3, loading, Warehouse 3, 6, 1, 15 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 15 hours 
+
+3, going to destination with load, Warehouse 1, 6, 1, 16 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 16 hours 
+
+3, going to destination with load, Warehouse 1, 6, 1, 17 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 17 hours 
+
+3, going to destination with load, Warehouse 1, 6, 1, 18 hours 
+
+8, going to destination with load, Warehouse 3, 3, 1, 18 hours 
+
+3, going to destination with load, Warehouse 1, 6, 1, 19 hours 
+
+8, unloading, Warehouse 3, 3, 1, 19 hours 
+
+3, going to destination with load, Warehouse 1, 6, 1, 20 hours 
+
+3, unloading, Warehouse 1, 6, 1, 21 hours 
+
+All shipments have been delivered. The simulation is complete.
