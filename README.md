@@ -1,4 +1,4 @@
-# WareHouse: Logistics Simulation
+# WareHouse: Logistic Simulation
 
 ![License](https://img.shields.io/github/license/davidgvad/Warehouse-Simulator)
 ![Java Version](https://img.shields.io/badge/java-11%2B-blue)
